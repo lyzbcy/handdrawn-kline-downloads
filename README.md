@@ -1,3 +1,11 @@
+## 0.1.0 正式发行 · 2026-10-27
+
+[下载最新正式版](https://github.com/lyzbcy/handdrawn-kline-downloads/releases/tag/v0.1.0)：Windows x64安装版/ZIP、Mac Apple Silicon ARM64 DMG/ZIP，无Intel Mac包。
+
+已支持应用内更新和问题反馈；旧无更新器版本首次请手动安装一次。Mac未Apple公证，Windows未代码签名。专属图标以像素股票图表作背景、手绘交易员作前景。
+
+以下保留原使用说明和历史记录；版本及平台以最新发行说明为准。
+
 # 我手绘K线，AI急哭了
 
 你画行情，AI 过人生。
